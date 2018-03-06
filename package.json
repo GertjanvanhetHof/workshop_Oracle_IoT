@@ -1,0 +1,8 @@
+{
+    "name": "refrigerationcar",
+    "version": "1.0.0",
+    "dependencies": {
+        "node-forge": "0.7.1",
+        "jsdoc": "3.5.5"
+    }
+}
